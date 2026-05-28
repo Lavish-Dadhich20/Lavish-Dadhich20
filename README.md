@@ -89,68 +89,6 @@ Passion   : Building systems that think, adapt, and scale
 </table>
 
 ---
-
-## `> projects --featured`
-
-<details open>
-<summary><b>🤖 SmartLoan AI — Agentic Loan Processing Chatbot</b> &nbsp;<code>2025</code></summary>
-
-<br/>
-
-> An end-to-end AI-powered loan assistant — built from scratch in **Year 1** of university.
-
-**What it does:**
-- Automates **eligibility analysis**, real-time **EMI calculations**, and issues **preliminary approval decisions** — zero manual intervention
-- Implements sophisticated **multi-turn dialogue** using LLM reasoning to harvest and validate clean user financial data
-- Generates **personalised loan structuring** recommendations based on dynamic financial inputs
-- Reduces typical loan pre-screening time from hours → seconds
-
-**Tech Stack:**
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Ollama LLM](https://img.shields.io/badge/Ollama_LLM-000000?style=flat-square&logoColor=white)
-
-</details>
-
----
-
-<details open>
-<summary><b>🛡️ AI Fraud Detection System</b> &nbsp;<code>Mar 2026 – Apr 2026</code></summary>
-
-<br/>
-
-> A production-quality ML pipeline for detecting fraudulent transactions in highly imbalanced financial datasets.
-
-**What it does:**
-- Architected a **tabular classification pipeline** using state-of-the-art tree ensembles — **Random Forest** + **XGBoost**
-- Solved the hard class-imbalance problem using **SMOTE** (Synthetic Minority Over-sampling) to ensure minority-class learning
-- Maximised **Precision-Recall** through end-to-end **hyperparameter tuning** and deep **feature engineering**
-- Delivers an audit-ready pipeline: preprocessing → training → evaluation → deployment-ready model artifact
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</details>
-
----
-
-<details>
-<summary><b>📊 Store Invoice & Sales Management System</b> &nbsp;<code>2024</code></summary>
-
-<br/>
-
-> A professional full-stack ERP-style platform built to replace spreadsheets in retail operations.
-
-**What it does:**
-- Unified platform for **invoice generation**, **inventory management**, and **multi-mode payment tracking** (cash / online / credit)
-- Built an **analytical sales dashboard** showing daily, monthly, and annual turnover metrics in real-time
-- Modelled a **relational-style schema inside MongoDB** optimised for rapid aggregations and transactional integrity
-
 **Tech Stack:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -158,8 +96,6 @@ Passion   : Building systems that think, adapt, and scale
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 </details>
-
----
 
 ## `> achievements --highlight`
 
