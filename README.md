@@ -37,7 +37,7 @@
 Name      : Lavish Dadhich
 Role      : Full-Stack Developer & Agentic AI Builder
 Location  : Udaipur, Rajasthan, India
-Education : B.Tech CSE @ GITS (RTU) | CGPA: 8.7/10 | 2024–2028
+Education : B.Tech CSE @ GITS (RTU) | CGPA: 9.1/10 | 2024–2028
 Status    : 🟢 Open to Internships & Collaborations
 Passion   : Building systems that think, adapt, and scale
 ```
