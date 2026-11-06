@@ -106,7 +106,7 @@ Passion   : Building systems that think, adapt, and scale
 | 🚀 **Production AI System in Year 1** | Built & shipped SmartLoan AI chatbot as a 1st-year B.Tech student |
 | 🧠 **ML Pipeline End-to-End** | Fraud detection system with SMOTE + XGBoost, fully tuned |
 | 🏆 **Hackathon Builder** | Active participant — functional prototypes under time pressure |
-| 📊 **CGPA 8.7/10** | Strong academic foundation alongside real-world projects |
+| 📊 **CGPA 9.1/10** | Strong academic foundation alongside real-world projects |
 
 </div>
 
@@ -133,7 +133,7 @@ class LavishDadhich:
     def __init__(self):
         self.name        = "Lavish Dadhich"
         self.degree      = "B.Tech CSE @ GITS Udaipur (2024-2028)"
-        self.cgpa        = 8.7
+        self.cgpa        = 9.1
         self.location    = "Udaipur, Rajasthan, India"
 
     def current_focus(self):
